@@ -38,9 +38,9 @@ Take a look at my pinned repositories below to explore some of my favorite proje
 
 ## 📫 Get in Touch
 
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **Email:** your.email@example.com
+- **Portfolio:** [yourportfolio.com](https://m-fareed.me)  
+- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/muhammad-fareed-454a02370)  
+- **Email:** fareedshahid450@gmail.com
 
 ---
 
